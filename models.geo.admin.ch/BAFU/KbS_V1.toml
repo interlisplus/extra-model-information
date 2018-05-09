@@ -1,0 +1,3 @@
+["KbS_V1.Belastete_Standorte.ZustaendigkeitKataster"]
+# display expression to show the zustaendige_behoerde and the katastername
+dispExpression="CONCAT(zustaendige_behoerde, ' - ', katastername)"

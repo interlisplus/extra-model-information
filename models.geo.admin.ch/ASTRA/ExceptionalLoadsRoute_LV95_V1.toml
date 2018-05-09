@@ -1,0 +1,7 @@
+["ExceptionalLoadsCatalogues_V1.TypeOfRouteCatalogue.TypeOfRoute"]
+# display expression to show the type
+dispExpression="type"
+
+["ExceptionalLoadsRoute_LV95_V1.ExceptionalLoad.Route"]
+# display expression to show the type and the canton
+dispExpression="CONCAT(type, ' - ', canton)"
